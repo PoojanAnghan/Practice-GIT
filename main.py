@@ -9,3 +9,6 @@ def new3():
 
 def new4():
     return 'new4'
+
+def new5():
+    return 'new5'
